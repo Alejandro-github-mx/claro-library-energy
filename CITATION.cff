@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "CLARO: Explainable Modeling of University Library Energy Consumption"
+authors:
+  - family-names: "Guzmán Rivera"
+    given-names: "Alejandro"
+version: "0.1.0"
+date-released: 2026-01-19
+license: MIT
+repository-code: "https://github.com/Alejandro-github-mx/claro-library-energy"
+

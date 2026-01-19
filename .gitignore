@@ -20,3 +20,9 @@ data/processed/
 .DS_Store
 EOF
 
+# Project venv (custom name)
+claro-venv/
+
+# Notebook-local artifacts
+notebooks/data/
+
