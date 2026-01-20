@@ -109,8 +109,5 @@ This public repository does not include any real library data.
 ## Submission context
 
 This repository was prepared as part of an EUonAir application to demonstrate conceptual clarity, reproducibility, and readiness to integrate real data once provided.  
-EOF
-
-`---  ## 7) Por ahora deja licencias vacías o pon placeholders  Para no frenarte, pon placeholders (luego las llenamos):  ```bash cat > LICENSE << 'EOF' MIT License  TODO: Paste full MIT license text here. EOF`
 
 `cat > LICENSE-CC-BY-4.0.md << 'EOF' Creative Commons Attribution 4.0 International (CC BY 4.0) TODO: Paste the full CC BY 4.0 text here, or link + short notice. EOF`
